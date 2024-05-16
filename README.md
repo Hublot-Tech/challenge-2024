@@ -2,7 +2,7 @@
 
 **Hello, World! 😊**
 
-Cher(e)s étudiant(e)s Je suis ravi de vous présenter les exercices passionnants qui vous attendent ! Voici les détails :
+Cher(e)s étudiant(e)s Je suis ravi de vous présenter les exercices simples et passionnants qui vous attendent ! Voici les détails :
 
 **1. Exercices d'Algorithmes :**
 - Vous aurez trois exercices pour mettre en pratique vos compétences en algorithmique :
@@ -47,5 +47,6 @@ Belrick Stephane - Vision-Pub
     - Vous pouvez poser des questions ou demander des clarifications si nécessaire.
     - Rejoignez le groupe pour telegram https://t.me/code_challenge2024 pour 
     - Les exercices terminees doivent etre soumis sur le repository git personnel de l'etudiant et le lien du repo doit etre partage avec un administrateur du groupe https://t.me/code_challenge2024 ou a l'adresse mail tibluematch@gmail.com
-    - Assurez-vous de soumettre vos exercices avant la date limite.
-    - Bonne chance et amusez-vous bien !
+    - *Assurez-vous de soumettre vos exercices avant la date limite*, qui est _**Le Jeudi, 20 Juin 2024**_.
+ 
+Bonne chance et amusez-vous bien !
