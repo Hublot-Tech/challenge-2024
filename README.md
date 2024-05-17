@@ -45,8 +45,10 @@ Belrick Stephane - Vision-Pub
 * *REGLES :*
     - Les exercices doivent être réalisés individuellement.
     - Vous pouvez poser des questions ou demander des clarifications si nécessaire.
-    - Rejoignez le groupe pour telegram https://t.me/code_challenge2024 pour 
+    - Rejoignez le groupe pour telegram https://t.me/code_challenge2024, qui servira de canal d'informations du challenge.
     - Les exercices terminees doivent etre soumis sur le repository git personnel de l'etudiant et le lien du repo doit etre partage avec un administrateur du groupe https://t.me/code_challenge2024 ou a l'adresse mail tibluematch@gmail.com
     - *Assurez-vous de soumettre vos exercices avant la date limite*, qui est _**Le Jeudi, 20 Juin 2024**_.
+
+Seuls les 3 vainqueurs recevront des primes, en plus de remises pour la formations 
  
 Bonne chance et amusez-vous bien !
