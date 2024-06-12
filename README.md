@@ -60,4 +60,3 @@ Les cours de HTML/CSS terminent en début de la deuxième semaine, puis on passe
 | Jeudi      | Programmation Web (Projets)          | Programmation Web (Projets)           | Data Analysis 101 (Machine Learning)   |
 | Vendredi   | Digital Marketing 101                | Programmation Web (Projets)           | Atelier Pratique                       |
 
-Ce programme alterne les matières tout en respectant vos exigences de contenu et de progression, avec des sessions de 2h à 2h30 et des pauses incluses.
