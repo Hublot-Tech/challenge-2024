@@ -1,54 +1,63 @@
+Voici une version révisée du programme prenant en compte vos ajustements. Les cours de HTML/CSS terminent en début de la deuxième semaine, puis on passe à React/Next.js dans Programmation Web 1. Les sessions durent de 2h à 2h30 avec des pauses de 15 minutes et 20 minutes, et les matières sont alternées pour éviter la monotonie.
 
+### Semaine 1 : Introduction et Fondamentaux
 
-**Hello, World! 😊**
+| Jour       | 8:00 - 10:00                         | 10:15 - 12:15                         | 13:15 - 15:15 (optionnel)              |
+|------------|--------------------------------------|---------------------------------------|----------------------------------------|
+| Lundi      | Programmation Web 1 (HTML/CSS)       | Programmation Web 2 (Laravel)         | Software Engineering 101 (Git)         |
+| Mardi      | Programmation Web 2 (Laravel)        | Programmation Web 1 (HTML/CSS)        | Software Engineering 101 (Git)         |
+| Mercredi   | Programmation Web 1 (HTML/CSS)       | Programmation Mobile (Flutter)        | Atelier Pratique                       |
+| Jeudi      | Programmation Web 2 (Laravel)        | Programmation Mobile (Flutter)        | Software Engineering 101 (Git)         |
+| Vendredi   | Digital Marketing 101                | Programmation Web 1 (HTML/CSS)        | Atelier Pratique                       |
 
-Cher(e)s étudiant(e)s Je suis ravi de vous présenter les exercices simples et passionnants qui vous attendent ! Voici les détails :
+### Semaine 2 : Transition vers des Concepts Avancés
 
-**1. Exercices d'Algorithmes :**
-- Vous aurez trois exercices pour mettre en pratique vos compétences en algorithmique :
-  - Algorithme dichotomique sur une liste triée
-  - Algorithme séquentiel sur une liste non triée avec une boucle "Tant que"
-  - Tri par sélection
-- Choisissez votre langage de prédilection entre Python ou C pour implémenter ces algorithmes.
+| Jour       | 8:00 - 10:00                         | 10:15 - 12:15                         | 13:15 - 15:15 (optionnel)              |
+|------------|--------------------------------------|---------------------------------------|----------------------------------------|
+| Lundi      | Programmation Web 1 (HTML/CSS)       | Programmation Web 2 (SpringBoot)      | Software Engineering 101 (Git, GitHub) |
+| Mardi      | Programmation Web 1 (React/Next.js)  | Programmation Web 2 (SpringBoot)      | Software Engineering 101 (Git, GitHub) |
+| Mercredi   | Programmation Web 1 (React/Next.js)  | Programmation Mobile (Flutter)        | Atelier Pratique                       |
+| Jeudi      | Programmation Web 2 (SpringBoot)     | Programmation Mobile (Flutter)        | Software Engineering 101 (Git, GitHub) |
+| Vendredi   | Digital Marketing 101                | Programmation Web 1 (React/Next.js)   | Atelier Pratique                       |
 
-**2. Exercice d'Application :**
-- Vous allez créer le célèbre jeu du "Juste Prix" ! Implémentez un programme qui permet à l'utilisateur de deviner un nombre mystère, en lui donnant des indications "plus" ou "moins" jusqu'à ce qu'il trouve le juste prix.
+### Semaine 3 : Développement Intermédiaire
 
-**3. Jeu avec Interface (au choix) :**
-- Vous avez le choix entre deux options :
-  - Réalisez à nouveau le jeu du "Juste Prix" mais cette fois avec une interface graphique.
-  - Ou bien, plongez dans le monde nostalgique du jeu "Snake" ! Créez une version de ce classique avec une interface utilisateur attrayante.
+| Jour       | 8:00 - 10:00                         | 10:15 - 12:15                         | 13:15 - 15:15 (optionnel)              |
+|------------|--------------------------------------|---------------------------------------|----------------------------------------|
+| Lundi      | Programmation Web 1 (React/Next.js)  | Programmation Web 2 (Laravel)         | Software Engineering 101 (SVC)         |
+| Mardi      | Programmation Web 1 (React/Next.js)  | Programmation Web 2 (SpringBoot)      | Software Engineering 101 (SVC)         |
+| Mercredi   | Programmation Web 1 (React/Next.js)  | Programmation Mobile (Flutter)        | Atelier Pratique                       |
+| Jeudi      | Programmation Web 2 (Laravel)        | Programmation Mobile (Flutter)        | Programmation Web 1 (React/Next.js)    |
+| Vendredi   | Digital Marketing 101                | Programmation Web 1 (React/Next.js)   | Atelier Pratique                       |
 
-**Langages et Technologies :**
-- Pour les exercices d'algorithmes, vous pouvez utiliser Python ou C.
-- Pour le jeu web, vous avez carte blanche sur la technologie, mais assurez-vous d'utiliser HTML, CSS et JavaScript.
+### Semaine 4 : Approfondissement
 
-**Date limite :**
-- Vous avez jusqu'au Jeudi, 20 juin 2024 pour compléter ces exercices. Assurez-vous de les terminer à temps et n'hésitez pas à poser des questions si nécessaire.
+| Jour       | 8:00 - 10:00                         | 10:15 - 12:15                         | 13:15 - 15:15 (optionnel)              |
+|------------|--------------------------------------|---------------------------------------|----------------------------------------|
+| Lundi      | Programmation Web 1 (React/Next.js)  | Programmation Web 2 (SpringBoot)      | IoT 101                                |
+| Mardi      | Programmation Web 2 (Laravel)        | Programmation Web 1 (React/Next.js)   | Data Analysis 101 (Techniques avancées)|
+| Mercredi   | Programmation Web 1 (React/Next.js)  | Programmation Mobile (Flutter)        | Atelier Pratique                       |
+| Jeudi      | Programmation Web 2 (SpringBoot)     | Programmation Web 1 (React/Next.js)   | Data Analysis 101 (Techniques avancées)|
+| Vendredi   | Digital Marketing 101                | Programmation Web 1 (React/Next.js)   | Atelier Pratique                       |
 
-Bon courage et amusez-vous bien !
+### Semaine 5 : Intégration et Projets
 
-Cordialement,
-Belrick Stephane - Vision-Pub
+| Jour       | 8:00 - 10:00                         | 10:15 - 12:15                         | 13:15 - 15:15 (optionnel)              |
+|------------|--------------------------------------|---------------------------------------|----------------------------------------|
+| Lundi      | Programmation Web (Intégration)      | Programmation Web (Projets)           | Software Engineering 101 (Algorithmique)|
+| Mardi      | Programmation Web (Intégration)      | Programmation Web (Projets)           | Software Engineering 101 (UML)         |
+| Mercredi   | Programmation Web (Intégration)      | Programmation Mobile (Flutter)        | Atelier Pratique                       |
+| Jeudi      | Programmation Web (Intégration)      | Programmation Web (Projets)           | Software Engineering 101 (UML)         |
+| Vendredi   | Digital Marketing 101                | Programmation Web (Intégration)       | Atelier Pratique                       |
 
---- 
+### Semaine 6 : Finalisation et Machine Learning
 
-**Regles et Systemes de notations :**
+| Jour       | 8:00 - 10:00                         | 10:15 - 12:15                         | 13:15 - 15:15 (optionnel)              |
+|------------|--------------------------------------|---------------------------------------|----------------------------------------|
+| Lundi      | Programmation Web (Projets)          | Programmation Web (Projets)           | Data Analysis 101 (Machine Learning)   |
+| Mardi      | Programmation Web (Projets)          | Programmation Web (Projets)           | Data Analysis 101 (Machine Learning)   |
+| Mercredi   | Programmation Web (Projets)          | Programmation Mobile (Flutter)        | Atelier Pratique                       |
+| Jeudi      | Programmation Web (Projets)          | Programmation Web (Projets)           | Data Analysis 101 (Machine Learning)   |
+| Vendredi   | Digital Marketing 101                | Programmation Web (Projets)           | Atelier Pratique                       |
 
-* *SYSTEME DE NOTATION :*
-    - Le premier et le deuxieme exercice compte pour 4 points chacun.
-    - Le troisieme exercice compte pour 6 points.
-    - La qualité du code et la clarté des commentaires comptent pour 2 points.
-    - La qualité de l'interface graphique (si applicable) compte pour 2 points.
-    - La bonne utilisation de git et github compte pour 2 points.
-
-* *REGLES :*
-    - Les exercices doivent être réalisés individuellement.
-    - Vous pouvez poser des questions ou demander des clarifications si nécessaire.
-    - Rejoignez le groupe pour telegram https://t.me/code_challenge2024, qui servira de canal d'informations du challenge.
-    - Les exercices terminees doivent etre soumis sur le repository git personnel de l'etudiant et le lien du repo doit etre partage avec un administrateur du groupe https://t.me/code_challenge2024 ou a l'adresse mail tibluematch@gmail.com
-    - *Assurez-vous de soumettre vos exercices avant la date limite*, qui est _**Le Jeudi, 20 Juin 2024**_.
-
-Seuls les 3 vainqueurs recevront des primes, en plus de remises pour la formations 
- 
-Bonne chance et amusez-vous bien !
+Ce programme alterne les matières tout en respectant vos exigences de contenu et de progression, avec des sessions de 2h à 2h30 et des pauses incluses.
