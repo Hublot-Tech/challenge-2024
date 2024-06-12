@@ -1,4 +1,4 @@
-Voici une version révisée du programme prenant en compte vos ajustements. Les cours de HTML/CSS terminent en début de la deuxième semaine, puis on passe à React/Next.js dans Programmation Web 1. Les sessions durent de 2h à 2h30 avec des pauses de 15 minutes et 20 minutes, et les matières sont alternées pour éviter la monotonie.
+Les cours de HTML/CSS terminent en début de la deuxième semaine, puis on passe à React/Next.js dans Programmation Web 1. Les sessions durent de 2h à 2h30 avec des pauses de 15 minutes et 20 minutes, et les matières sont alternées pour éviter la monotonie.
 
 ### Semaine 1 : Introduction et Fondamentaux
 
